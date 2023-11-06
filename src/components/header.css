@@ -1,0 +1,16 @@
+.head-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-side {
+    background-color: lightblue;
+    height: 50vh;
+    width: 100%;
+    display: inline-block;
+    /* margin-top: 3rem; */
+    padding-left: 5rem;
+    padding-top: 7.5%;
+    color: black;
+    z-index: 15;
+}

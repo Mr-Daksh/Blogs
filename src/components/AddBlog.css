@@ -1,0 +1,13 @@
+form {
+    display: block;
+    padding: 35px 10% 35px 10%;
+    background-color: bluegray;
+}
+
+input{
+    border-radius: 10px;
+    width: 40%;
+    font-size: 20px;
+    margin: 0 10px;
+    padding: 18px;
+}
